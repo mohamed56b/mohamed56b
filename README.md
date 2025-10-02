@@ -61,10 +61,10 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/Mohamed Ahmed" target="_blank">
+  <a href="[https://linkedin.com/in/Mohamed Ahmed](https://www.linkedin.com/in/mohamed-ahmed-b33872340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
+  <a href="https://twitter.com/your-profile](https://x.com/skip_f4_now" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://portfolio-yourname.vercel.app" target="_blank">
