@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed4P.Mohamed4P&left_text=Profile%20Views"  />
-  <img src="https://img.shields.io/github/followers/Mohamed4P?label=Followers&style=social"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamed56b.mohamed56b&left_text=Profile%20Views"  />
+  <img src="https://img.shields.io/github/followers/mohamed56b?label=Followers&style=social"  />
 </div>
 
 ---
@@ -21,9 +21,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com?user=Mohamed4P&theme=dracula&hide_border=true&background=0D1117" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed4P&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed4P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=mohamed56b&theme=dracula&hide_border=true&background=0D1117" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed56b&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed56b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -45,7 +45,7 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed4P&custom_title=Mohamed's%20GitHub%20Activity&theme=dracula&bg_color=0D1117&hide_border=true&line=BD93F9&point=FFFFFF&area_color=BD93F9&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed56b&custom_title=Mohamed's%20GitHub%20Activity&theme=dracula&bg_color=0D1117&hide_border=true&line=BD93F9&point=FFFFFF&area_color=BD93F9&area=true" />
 </div>
 
 ---
@@ -53,7 +53,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed4P&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed56b&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
@@ -79,7 +79,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Mohamed4P/Mohamed4P/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mohamed56b/mohamed56b/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
